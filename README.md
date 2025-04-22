@@ -4,9 +4,10 @@ These are some of the areas I am focused on right now:
 - Cloud engineering.
 - Networking and Linux anministration.
 - Azure, Docker.
+- Programming Python, Java, C++.
 - Customizing my Neovim for faster workflows (that's on going in parallel with anything else).
 
-Feel free to connect to [My LinkedIn Profile](https://www.linkedin.com/in/oleg-itskovich-85a3388/)
+Feel free to reach out to [My LinkedIn Profile](https://www.linkedin.com/in/oleg-itskovich-85a3388/)
 
 
 
