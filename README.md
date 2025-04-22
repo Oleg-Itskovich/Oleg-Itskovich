@@ -1,6 +1,6 @@
 ## Welcome to my repo! 
 #### I’m an IT professional. I enjoy building and testing software, playing chess and socialising with smart people.
-I enjoy technology and so there are a few areas of focus in my learning right now:
+These are some of the areas I am focused on right now:
 - Cloud engineering.
 - Networking and Linux anministration.
 - Azure, Docker.
